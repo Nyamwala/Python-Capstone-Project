@@ -1,0 +1,62 @@
+appointment_id,date,appointment_time,customer_name,service,stylist,price,status
+1,2026-09-01,09:00,Amina Hassan,Haircut,Grace,800,Completed
+2,2026-09-01,10:30,Brenda Wanjiku,Hair Coloring,Faith,2500,Completed
+3,2026-09-01,12:00,Carol Njeri,Manicure,Grace,1000,Completed
+4,2026-09-01,14:00,Diana Achieng,Pedicure,Faith,1200,Completed
+5,2026-09-01,16:00,Emily Wambui,Haircut,Grace,800,No-Show
+6,2026-09-02,09:30,Fatuma Ali,Hair Treatment,Faith,1800,Completed
+7,2026-09-02,11:00,George Otieno,Haircut,Grace,700,Completed
+8,2026-09-02,13:00,Hellen Atieno,Weaving,Faith,2200,Completed
+9,2026-09-02,15:00,Irene Kamau,Manicure,Grace,1000,Cancelled
+10,2026-09-02,17:00,Janet Wanjiru,Haircut,Faith,800,Completed
+11,2026-09-03,09:00,Kevin Mwangi,Haircut,Grace,700,Completed
+12,2026-09-03,10:30,Lilian Wambui,Hair Coloring,Faith,2800,Completed
+13,2026-09-03,12:30,Mary Njeri,Pedicure,Grace,1200,Completed
+14,2026-09-03,14:30,Nancy Achieng,Weaving,Faith,2200,No-Show
+15,2026-09-03,16:30,Olivia Chebet,Hair Treatment,Grace,1800,Completed
+16,2026-09-04,09:00,Peter Kiptoo,Haircut,Faith,700,Completed
+17,2026-09-04,11:00,Queen Wanjiku,Manicure,Grace,1000,Completed
+18,2026-09-04,13:00,Ruth Atieno,Haircut,Faith,800,Completed
+19,2026-09-04,15:00,Sheila Njeri,Pedicure,Grace,1200,Completed
+20,2026-09-04,17:00,Teresa Wambui,Hair Coloring,Faith,2500,Cancelled
+21,2026-09-05,08:30,Ursula Achieng,Weaving,Grace,2200,Completed
+22,2026-09-05,10:30,Vivian Wanjiru,Haircut,Faith,800,Completed
+23,2026-09-05,12:30,Winnie Njeri,Manicure,Grace,1000,Completed
+24,2026-09-05,14:30,Xavier Otieno,Haircut,Faith,700,Completed
+25,2026-09-05,16:30,Yvonne Kamau,Hair Treatment,Grace,1800,No-Show
+26,2026-09-07,09:00,Zawadi Hassan,Pedicure,Faith,1200,Completed
+27,2026-09-07,10:30,Amina Hassan,Manicure,Grace,1000,Completed
+28,2026-09-07,12:00,Brenda Wanjiku,Hair Coloring,Faith,2500,Completed
+29,2026-09-07,14:00,Carol Njeri,Haircut,Grace,800,Completed
+30,2026-09-07,16:00,Diana Achieng,Weaving,Faith,2200,Completed
+31,2026-09-08,09:00,Emily Wambui,Haircut,Grace,800,No-Show
+32,2026-09-08,10:30,Fatuma Ali,Pedicure,Faith,1200,Completed
+33,2026-09-08,12:30,George Otieno,Haircut,Grace,700,Completed
+34,2026-09-08,14:30,Hellen Atieno,Hair Treatment,Faith,1800,Completed
+35,2026-09-08,16:30,Irene Kamau,Manicure,Grace,1000,Completed
+36,2026-09-09,09:00,Janet Wanjiru,Haircut,Faith,800,Completed
+37,2026-09-09,11:00,Kevin Mwangi,Haircut,Grace,700,Completed
+38,2026-09-09,13:00,Lilian Wambui,Hair Coloring,Faith,2800,Completed
+39,2026-09-09,15:00,Mary Njeri,Pedicure,Grace,1200,Cancelled
+40,2026-09-09,17:00,Nancy Achieng,Weaving,Faith,2200,No-Show
+41,2026-09-10,09:30,Olivia Chebet,Hair Treatment,Grace,1800,Completed
+42,2026-09-10,11:30,Peter Kiptoo,Haircut,Faith,700,Completed
+43,2026-09-10,13:30,Queen Wanjiku,Manicure,Grace,1000,Completed
+44,2026-09-10,15:30,Ruth Atieno,Haircut,Faith,800,Completed
+45,2026-09-10,17:00,Sheila Njeri,Pedicure,Grace,1200,Completed
+46,2026-09-11,09:00,Teresa Wambui,Hair Coloring,Faith,2500,Completed
+47,2026-09-11,11:00,Ursula Achieng,Weaving,Grace,2200,Completed
+48,2026-09-11,13:00,Vivian Wanjiru,Haircut,Faith,800,Completed
+49,2026-09-11,15:00,Winnie Njeri,Manicure,Grace,1000,Cancelled
+50,2026-09-11,17:00,Xavier Otieno,Haircut,Faith,700,Completed
+51,2026-09-12,08:30,Yvonne Kamau,Hair Treatment,Grace,1800,Completed
+52,2026-09-12,10:30,Zawadi Hassan,Pedicure,Faith,1200,Completed
+53,2026-09-12,12:30,Amina Hassan,Haircut,Grace,800,Completed
+54,2026-09-12,14:30,Brenda Wanjiku,Hair Coloring,Faith,2500,Completed
+55,2026-09-12,16:30,Carol Njeri,Manicure,Grace,1000,Completed
+56,2026-09-14,09:00,Diana Achieng,Pedicure,Faith,1200,Completed
+57,2026-09-14,11:00,Emily Wambui,Haircut,Grace,800,No-Show
+58,2026-09-14,13:00,Fatuma Ali,Hair Treatment,Faith,1800,Completed
+59,2026-09-14,15:00,George Otieno,Haircut,Grace,700,Completed
+60,2026-09-14,17:00,Hellen Atieno,Weaving,Faith,2200,Completed
+```
